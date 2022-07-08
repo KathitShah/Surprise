@@ -1,0 +1,33 @@
+#myVideo{
+    height: 99vh;
+    width: 99vw;
+}
+h1{
+    font-weight: 700;
+    font-size: 4vw;
+}
+.hide{
+    visibility: hidden;
+}
+.white{
+    color:grey;
+}
+#rainbow-box{
+    background-image: url("italy.png");
+    background-size: 16vw;
+    opacity: 0.7;
+}
+.center{
+    margin: auto;
+    position: relative;
+}
+.celebration{
+    z-index: 5;
+    
+}
+#portugal{
+    visibility: visible;
+}
+#italy{
+    visibility: visible;
+}
